@@ -71,5 +71,5 @@ Automated CI/CD pipeline deploying application code from GitHub to an Amazon EC2
 
 ---
 
-## Sample Post-Deployment Script
-script.sh
+## Sample Post-Deployment Script You can view the full script [here](./script.sh),
+or jump directly to the [restart command](https://github.com/shruti-patel06/aws-codepipeline-ec2-deploy/blob/main/script.sh#L10).
