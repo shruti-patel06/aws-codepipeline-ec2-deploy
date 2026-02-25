@@ -66,6 +66,10 @@ Automated CI/CD pipeline deploying application code from GitHub to an Amazon EC2
 
 **CodePipeline Service Role:**  
 - Access to SSM  
+
+Uploading Screen Recording 2026-02-20 194136.mp4…
+
+
 - Access to EC2 (describe/tag filtering)  
 - Access to GitHub connection  
 
